@@ -178,7 +178,7 @@ git push origin master
 ## ...locally (this will not delete the branch on GitHub)
 git branch -d my-branch
 
-# List branches -- This will show you all of the branches and which one you are on
+# List branches -- This shows you all of the branches and which one you are on
 git branch
 ```
 
