@@ -194,4 +194,28 @@ of how GitHub PRs are working.
  2. Let others review what you changed.
  3. You can use the GitHub UI or the command line to merge the pull request.
 
-  /// TODO  Add git merge steps here
+## How to Merge Changes
+
+#### (1) Move to Master Branch
+
+```md
+$ git checkout master
+```
+
+#### (2) Absorb the branch that you came from into the master
+
+```md
+git merge [name of the branch]
+```
+
+#### (3) Solidify the changes with pushing
+
+```md
+git push origin master
+```
+
+#### (4) Delete the branch that you just absorbed
+
+```md
+git branch -d [name of the branch]
+```
