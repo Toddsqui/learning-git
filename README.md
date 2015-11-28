@@ -190,9 +190,12 @@ visualize, review and merge the changes easily.
 [Here](https://guides.github.com/introduction/flow/) you can find a nice visualization
 of how GitHub PRs are working.
 
- 1. After pushing the branch on GitHub, create a pull request.
+### Try this:
+```sh
+   1. After pushing the branch on GitHub, create a pull request.
  2. Let others review what you changed.
  3. You can use the GitHub UI or the command line to merge the pull request.
+ ```
 
 ## How to Merge Changes
 
