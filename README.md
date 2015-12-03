@@ -191,11 +191,11 @@ visualize, review and merge the changes easily.
 of how GitHub PRs are working.
 
 ### Try this:
-```sh
-   1. After pushing the branch on GitHub, create a pull request.
+
+ 1. After pushing the branch on GitHub, create a pull request.
  2. Let others review what you changed.
  3. You can use the GitHub UI or the command line to merge the pull request.
- ```
+
 
 ## How to Merge Changes
 
